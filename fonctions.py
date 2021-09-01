@@ -1,0 +1,2 @@
+afficherCarte(valeur):
+	
