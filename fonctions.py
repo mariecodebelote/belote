@@ -1,2 +1,2 @@
 afficherCarte(valeur):
-	
+	teterterte
